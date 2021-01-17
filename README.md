@@ -1,10 +1,13 @@
 # Pincher-Arm-PS4-Teleops
-show image
+<img 
+src="https://github.com/Taireyune/pincher-arm-PS4-teleops/blob/main/images/communications_circled.png" 
+width="500" height="500" alt="relationship">
 
 ## Overview
-ROS messages in python
+This project contains the python scripts for manually controlling the Pincher arm using ROS messages.
 Controls reflect motor pwm at each joint.
 
-## Requirements
+## Usage
 [cortex-message-handling]() need to be compiled and added to path.
+
 
